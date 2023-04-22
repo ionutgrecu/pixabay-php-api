@@ -1,5 +1,5 @@
 {
-  "name": "zoonman/pixabay-php-api",
+  "name": "ionutgrecu/pixabay-php-api",
   "type": "library",
   "description": "PixabayClient is a PHP HTTP client library to access Pixabay's API",
   "keywords": ["Pixabay", "http", "rest", "web service", "curl", "client", "HTTP client"],
